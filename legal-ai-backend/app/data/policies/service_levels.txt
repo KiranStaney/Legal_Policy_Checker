@@ -1,0 +1,1 @@
+Service-level obligations must define uptime, response time, resolution time, and penalties for SLA breaches.

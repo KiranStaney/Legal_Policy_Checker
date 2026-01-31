@@ -1,0 +1,1 @@
+Contracts must include data protection obligations, encryption requirements, access control, retention limits, and compliance with privacy laws.

@@ -1,0 +1,1 @@
+A valid contract must include a confidentiality clause specifying that both parties must protect sensitive information. The clause must define what data is confidential, how it is stored, who can access it, and how long confidentiality obligations last after termination.

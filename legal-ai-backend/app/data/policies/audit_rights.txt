@@ -1,0 +1,1 @@
+A valid contract should allow either party to audit compliance, financial records, or security controls under predefined conditions.

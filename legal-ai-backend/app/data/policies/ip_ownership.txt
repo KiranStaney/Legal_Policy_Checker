@@ -1,0 +1,1 @@
+The contract must clarify ownership of intellectual property created before and during the engagement. Default rule: each party retains existing IP, and new deliverables belong to the client unless specified otherwise.

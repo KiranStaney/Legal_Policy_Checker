@@ -1,0 +1,1 @@
+The contract must specify renewal rules: auto-renewal, manual renewal, renewal notice period, and price increases on renewal.

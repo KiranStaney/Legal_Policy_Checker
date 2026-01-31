@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-docx
+python-dotenv
+google-genai             # For Gemini LLM
+# Dependencies for P-B's RAG system:
+langchain-community      # For FAISS and Embeddings
+faiss-cpu
+sentence-transformers
